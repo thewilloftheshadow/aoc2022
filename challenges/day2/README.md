@@ -6,7 +6,6 @@ Part 1 was relatively straightforward, and I got the answer quickly.
 
 Part 2 was a bit more difficult, because I forgot to restructure one portion of the code to work with the new constraints given by the elf.
 
-| Part   | Time |
-| ------ | ---- |
-| Part 1 | 5:43 |
-| Part 2 | 5:24 |
+| Day   | Part 1 | Part 2 |
+| ----- | ------ | ------ |
+| Day 2 | 5:43   | 5:24   |

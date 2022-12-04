@@ -5,7 +5,6 @@ I just wrote a bunch of functions to convert it to an array and then perform ope
 
 Part 2 was extremely simple after that, since I already had the array, so I could just sum together the first 3 items in the array.
 
-| Part   | Time |
-| ------ | ---- |
-| Part 1 | 4:13 |
-| Part 2 | 0:24 |
+| Day   | Part 1 | Part 2 |
+| ----- | ------ | ------ |
+| Day 1 | 4:13   | 0:24   |

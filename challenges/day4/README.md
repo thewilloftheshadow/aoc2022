@@ -7,7 +7,6 @@ Part 1 took quite a bit of time, as I was originally trying to compare the range
 Part 2 was literally the easiest thing ever. All I had to do was change `.every()` to `.some()` and the problem was complete. Most of the time was reading the problem itself!
 
 
-| Part   | Time  |
-| ------ | ----- |
-| Part 1 | 11:18 |
-| Part 2 | 0:43  |
+| Day   | Part 1 | Part 2 |
+| ----- | ------ | ------ |
+| Day 4 | 11:18  | 0:43   |
